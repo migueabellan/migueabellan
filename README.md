@@ -1,12 +1,12 @@
-# Hello there 👋
+## Hello there 👋
 
-## 📖 About me
+### 📖 About me
 
 - 💻 I'm a web developer backend (PHP Symfony) and frontend (JS Vue, Nuxt)
 - 🎨 I'm a self-taught UI designer
 - 📺 I make tech tutorials on [YouTube](https://www.youtube.com/c/ProgramoErgoSum)
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
