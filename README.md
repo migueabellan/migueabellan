@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-migueabellan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migueabellan/)](https://www.linkedin.com/in/migueabellan/)
 [![Twitter](https://img.shields.io/badge/-@migueabellan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/migueabellan)](https://twitter.com/migueabellan)
-[![Website](https://img.shields.io/badge/-migueabellan.es-333333?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.migueabellan.es)](https://www.migueabellan.es)
+[![Website](https://img.shields.io/badge/-migueabellan.es-333333?style=flat&logo=firefox&logoColor=white&link=https://www.migueabellan.es)](https://www.migueabellan.es)
 [<img src="https://img.shields.io/github/followers/migueabellan?label=follow&style=social" height="22" title="Follow me" />](https://github.com/migueabellan) 
 
 ### 📖 About me
