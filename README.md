@@ -1,4 +1,4 @@
-## Hi, I'm Migue 👋
+## Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/-migueabellan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migueabellan/)](https://www.linkedin.com/in/migueabellan/)
 [![Twitter](https://img.shields.io/badge/-@migueabellan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/migueabellan)](https://twitter.com/migueabellan)
@@ -7,8 +7,11 @@
 
 ### 📖 About me
 
-I'm a freelancer web developer **backend** (PHP Symfony) and **frontend** (JS Vue, Nuxt). Mentor at [@ProgramoErgoSum](https://github.com/ProgramoErgoSum) and [@CoderDojo](https://github.com/CoderDojoes). Beside's programming, I enjoy eating food and traveling.
+I'm Migue (@migueabelan), a **freelance software developer** and content creator, passionate about open source. 
 
+I love backend and frontend web technologies and I've been working mostly on Symfony (PHP), Vue.js or Nuxt.js (JavaScript) and other languages as Arduino or Python to interact with robots or electronic boards.
+
+I'm mentor at [@ProgramoErgoSum](https://github.com/ProgramoErgoSum) and [@CoderDojo](https://github.com/CoderDojoes). Beside's programming, I enjoy eating food and traveling.
 
 ### 🛠 Tech Stack
 
