@@ -7,9 +7,8 @@
 
 ### 📖 About me
 
-- 💻 I'm a web developer backend (PHP Symfony) and frontend (JS Vue, Nuxt)
-- 🎨 I'm a self-taught UI designer
-- 📺 I make tech tutorials on [YouTube](https://www.youtube.com/c/ProgramoErgoSum)
+I'm a freelancer web developer **backend** (PHP Symfony) and **frontend** (JS Vue, Nuxt). Mentor at [@ProgramoErgoSum](https://github.com/ProgramoErgoSum) and [@CoderDojo](https://github.com/CoderDojoes). Beside's programming, I enjoy eating food and traveling.
+
 
 ### 🛠 Tech Stack
 
