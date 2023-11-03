@@ -8,7 +8,7 @@
 
 ### 📖 About me
 -->
-I'm Migue (@migueabelan), a **freelance web developer** and content creator, passionate about open source. 
+I'm Migue (@migueabelan), **senior web developer** and content creator, passionate about open source. 
 
 I love backend and frontend web technologies and I've been working mostly on Symfony (PHP), Vue.js or Nuxt.js (JavaScript) and other languages as Arduino or Python to interact with robots or electronic boards.
 
